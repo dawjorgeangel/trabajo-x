@@ -1,0 +1,19 @@
+# Archivos compilados
+*.class
+
+# Carpetas de build
+/build/
+/out/
+/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
